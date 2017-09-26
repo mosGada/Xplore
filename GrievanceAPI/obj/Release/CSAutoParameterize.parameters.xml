@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="grievancedbEntities-Web.config Connection String" description="grievancedbEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/GrievanceEntitites.csdl|res://*/GrievanceEntitites.ssdl|res://*/GrievanceEntitites.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:grievance.database.windows.net;initial catalog=grievancedb;persist security info=True;user id=DevAdmin;password=Dev@Grievance123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Projects\\Xplore\\GrievanceWebPortal\\GrievanceAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='grievancedbEntities']/@connectionString" />
+  </parameter>
+  <parameter name="AuthContext-Web.config Connection String" description="AuthContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:grievance.database.windows.net,1433;Initial Catalog=grievancedb;Persist Security Info=False;User ID=DevAdmin;Password=Dev@Grievance123;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Projects\\Xplore\\GrievanceWebPortal\\GrievanceAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AuthContext']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\Grievance.DAL.dll.config
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\Grievance.DAL.dll
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\Grievance.DAL.pdb
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\EntityFramework.dll
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\EntityFramework.xml
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\obj\Release\Grievance.DAL.dll
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\obj\Release\Grievance.DAL.pdb
+C:\Projects\Xplore\GrievanceWebPortal\Grievance.DAL\obj\Release\Grievance.DAL.csprojResolveAssemblyReference.cache

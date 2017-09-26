@@ -1,0 +1,66 @@
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\ApplicationInsights.config
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\csc.exe
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\vbc.exe
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.dll.config
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.pdb
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Web.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Web.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.csprojResolveAssemblyReference.cache
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.dll
+C:\Users\Koketso\Documents\Koketso\My Stuff\Projects\Mdu\Grievance System\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.pdb
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\ApplicationInsights.config
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\csc.exe
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\vbc.exe
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.dll.config
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\GrievanceWebPortal.pdb
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Web.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.Web.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.csprojResolveAssemblyReference.cache
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.dll
+C:\Projects\Xplore\GrievanceWebPortal\GrievanceWebPortal\obj\Debug\GrievanceWebPortal.pdb
